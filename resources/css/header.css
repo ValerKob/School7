@@ -1,0 +1,138 @@
+.headerWrapper {
+    width: 100vw;
+    height: auto;
+
+    margin: 0 auto;
+    
+    position: fixed;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 45px 0;
+}
+
+/* Burger Menu */
+.burgerMenuWrapper {
+    width: 40px;
+    height: 30px;
+
+    display: flex;
+    align-items: center;
+
+    cursor: pointer;
+}
+
+.burgerMenu {
+    width: 40px;
+    height: 2px;
+
+    background-color: #fff;
+
+    position: relative;
+}
+
+.burgerMenu::after,
+.burgerMenu::before {
+    content: '';
+    position: absolute;
+    top: 15px;
+    left: 0;
+    width: 40px;
+    height: 2px;
+    background-color: #fff;
+}
+
+.burgerMenu::before {
+    top: -15px;
+}
+
+/* Logo */
+.logo {
+    margin: 0 30px;
+
+    cursor: pointer;
+}
+
+/* Menu */
+.headerMenu {
+    max-width: 100%;
+
+    display: flex;
+    align-items: center;
+}
+
+/* Menu Title */
+.menuTitleSchool {
+    color: #FFF;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+    margin-right: 40px;
+
+    cursor: pointer;
+}
+
+/* Menu Links */
+.menuUl,
+.menuUlSvg {
+    display: flex;
+}
+
+.menuUlSvg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    right: 0;
+    bottom: 0;
+}
+
+.menuLi {
+    margin-right: 35px;
+}
+
+.menuLi:last-child {
+    margin-right: 0;
+}
+
+.menuLiSvg {
+    margin-right: 25px;
+}
+
+.menuLiSvg:last-child {
+    margin-right: 0;
+}
+
+.menuLink {
+    color: #FFF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+    text-decoration: none;
+
+    position: relative;
+}
+
+.menuLink::after {
+    content: '';
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 0%;
+    height: 1px;
+    background-color: #fff;
+
+    transition: all .3s ease-in-out 0s;
+}
+
+.menuLink:hover::after {
+    width: 100%;
+}

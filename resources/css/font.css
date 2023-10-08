@@ -1,0 +1,49 @@
+@font-face {
+    font-family: "Inter Light";
+    src: local("Inter Light"),
+        local("Inter-Light"),
+        url("Inter_Light-webfont.woff2") format("woff2"),
+        url("Inter_Light-webfont.woff") format("woff"),
+        url("Inter_Light-webfont.svg") format("svg");
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "Inter Regular";
+    src: local("Inter Regular"),
+        local("Inter-Regular"),
+        url("Inter_Regular-webfont.woff2") format("woff2"),
+        url("Inter_Regular-webfont.woff") format("woff"),
+        url("Inter_Regular-webfont.svg") format("svg");
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "Inter Medium";
+    src: local("Inter Medium"),
+        local("Inter-Medium"),
+        url("Inter_Medium-webfont.woff2") format("woff2"),
+        url("Inter_Medium-webfont.woff") format("woff"),
+        url("Inter_Medium-webfont.svg") format("svg");
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "Inter SemiBold";
+    src: local("Inter SemiBold"),
+        local("Inter-SemiBold"),
+        url("Inter_SemiBold-webfont.woff2") format("woff2"),
+        url("Inter_SemiBold-webfont.woff") format("woff"),
+        url("Inter_SemiBold-webfont.svg") format("svg");
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "Inter Bold";
+    src: local("Inter Bold"),
+        local("Inter-Bold"),
+        url("Inter_Bold-webfont.woff2") format("woff2"),
+        url("Inter_Bold-webfont.woff") format("woff"),
+        url("Inter_Bold-webfont.svg") format("svg");
+    font-weight: normal;
+}
