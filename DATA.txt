@@ -3,3 +3,7 @@ IP: 188.225.40.140
 
 Login: cb36529
 Pass: TTM8z!$il2UW
+
+DB
+Login: cb36529_school7
+Pass: Yuh8BJ2J
