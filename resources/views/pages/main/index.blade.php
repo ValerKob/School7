@@ -191,6 +191,74 @@
         </div>
     </div>
 </section>
+<section class="twoBlog">
+    <div class="container">
+        <div class="twoBlogTitle">
+            Самая лучшая школа
+        </div>
+        <div class="wrapperTwoBlog">
+            <div class="twoBlogInfo1">
+                <div class="twoBlogInfo1Title">
+                    Родителям
+                </div>
+                <div class="twoBlogInfo1Img">
+                    <img class="twoBlogInfo1Img1" src="../resources/images/MainPage/1.svg" alt="">
+                    <img class="twoBlogInfo1Img2" src="../resources/images/MainPage/femaly.svg" alt="">
+                </div>
+            </div>
+            <div class="twoBlogInfo2">
+                <div class="twoBlogInfo2Img">
+                    <img class="twoBlogInfo2Img1" src="../resources/images/MainPage/2.svg" alt="">
+                    <img class="twoBlogInfo2Img2" src="../resources/images/MainPage/3.svg" alt="">
+                </div>
+                <div class="twoBlogInfo2Title">
+                    Сотрудники
+                </div>
+            </div>
+            <div class="twoBlogInfo3">
+                <div class="twoBlogInfo3Img">
+                    <img class="twoBlogInfo3Img1" src="../resources/images/MainPage/4.svg" alt="">
+                </div>
+                <div class="twoBlogInfo3Title">
+                    О нас
+                </div>
+            </div>
+            <div class="twoBlogInfo4">
+                <div class="twoBlogInfo3Img">
+                    <img class="twoBlogInfo3Img1" src="../resources/images/MainPage/5.svg" alt="">
+                </div>
+                <div class="twoBlogInfo4Title">
+                    Ученикам
+                </div>
+            </div>
+            <div class="twoBlogInfo5">
+                <div class="twoBlogInfo1Title">
+                    Дополнительное образование
+                </div>
+                <div class="twoBlogInfo5Img">
+                    <img class="twoBlogInfo5Img1" src="../resources/images/MainPage/6.svg" alt="">
+                </div>
+            </div>
+            <div class="twoBlogInfo6">
+                <div class="twoBlogInfo6Img">
+                    <img class="twoBlogInfo6Img2" src="../resources/images/MainPage/8.svg" alt="">
+                    <img class="twoBlogInfo6Img1" src="../resources/images/MainPage/7.svg" alt="">
+                </div>
+                <div class="twoBlogInfo4Title">
+                    Учителям
+                </div>
+            </div>
+            <div class="twoBlogInfo7">
+                <div class="twoBlogInfo1Title">
+                    Внеурочная деятельность
+                </div>
+                <div class="twoBlogInfo7Img">
+                    <img class="twoBlogInfo7Img1" src="../resources/images/MainPage/9.svg" alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 <!--================ End Pages Main =================-->
 
 @endsection('content')
