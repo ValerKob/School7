@@ -9,7 +9,7 @@
                     </div>
                 </div>
                 <div class="logo">
-                    <img src="../resources/images/logo.svg" alt="">
+                    <img src="../assets/images/logo.svg" alt="">
                 </div>
                 <div class="headerMenu">
                     <div class="menuTitle">
@@ -31,27 +31,27 @@
             <ul class="menuUlSvg">
                 <li class="menuLiSvg">
                     <a href="">
-                        <img src="../resources/images/links/eye.svg" alt="">
+                        <img src="../assets/images/links/eye.svg" alt="">
                     </a>
                 </li>
                 <li class="menuLi">
                     <a href="">
-                        <img src="../resources/images/links/vector.svg" alt="">
+                        <img src="../assets/images/links/vector.svg" alt="">
                     </a>
                 </li>
                 <li class="menuLi">
                     <a href="">
-                        <img src="../resources/images/links/user.svg" alt="">
+                        <img src="../assets/images/links/user.svg" alt="">
                     </a>
                 </li>
                 <li class="menuLi">
                     <a href="">
-                        <img src="../resources/images/links/search.svg" alt="">
+                        <img src="../assets/images/links/search.svg" alt="">
                     </a>
                 </li>
                 <li class="menuLi">
                     <a href="">
-                        <img src="../resources/images/links/language.svg" alt="">
+                        <img src="../assets/images/links/language.svg" alt="">
                     </a>
                 </li>
             </ul>

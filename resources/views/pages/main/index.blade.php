@@ -20,7 +20,7 @@
             </div>
             <div class="colOneBlogTwo">
                 <div class="oneBlogSchool">
-                    <img class="imgOneBlog" src="../resources/images/MainPage/glavSchool.svg" alt="">
+                    <img class="imgOneBlog" src="../assets/images/MainPage/glavSchool.svg" alt="">
                 </div>
 
                 <div class="ellipseOneBlog">
@@ -219,14 +219,14 @@
                     Родителям
                 </div>
                 <div class="twoBlogInfo1Img">
-                    <img class="twoBlogInfo1Img1" src="../resources/images/MainPage/1.svg" alt="">
-                    <img class="twoBlogInfo1Img2" src="../resources/images/MainPage/femaly.svg" alt="">
+                    <img class="twoBlogInfo1Img1" src="../assets/images/MainPage/1.svg" alt="">
+                    <img class="twoBlogInfo1Img2" src="../assets/images/MainPage/femaly.svg" alt="">
                 </div>
             </div>
             <div class="twoBlogInfo2 hoverTwoBlog2">
                 <div class="twoBlogInfo2Img">
-                    <img class="twoBlogInfo2Img1" src="../resources/images/MainPage/2.svg" alt="">
-                    <img class="twoBlogInfo2Img2" src="../resources/images/MainPage/3.svg" alt="">
+                    <img class="twoBlogInfo2Img1" src="../assets/images/MainPage/2.svg" alt="">
+                    <img class="twoBlogInfo2Img2" src="../assets/images/MainPage/3.svg" alt="">
                 </div>
                 <div class="twoBlogInfo2Title">
                     Сотрудники
@@ -234,7 +234,7 @@
             </div>
             <div class="twoBlogInfo3 hoverTwoBlog2">
                 <div class="twoBlogInfo3Img">
-                    <img class="twoBlogInfo3Img1" src="../resources/images/MainPage/4.svg" alt="">
+                    <img class="twoBlogInfo3Img1" src="../assets/images/MainPage/4.svg" alt="">
                 </div>
                 <div class="twoBlogInfo3Title">
                     О нас
@@ -242,7 +242,7 @@
             </div>
             <div class="twoBlogInfo4 hoverTwoBlog2">
                 <div class="twoBlogInfo3Img">
-                    <img class="twoBlogInfo3Img1" src="../resources/images/MainPage/5.svg" alt="">
+                    <img class="twoBlogInfo3Img1" src="../assets/images/MainPage/5.svg" alt="">
                 </div>
                 <div class="twoBlogInfo4Title">
                     Ученикам
@@ -253,13 +253,13 @@
                     Дополнительное образование
                 </div>
                 <div class="twoBlogInfo5Img">
-                    <img class="twoBlogInfo5Img1" src="../resources/images/MainPage/6.svg" alt="">
+                    <img class="twoBlogInfo5Img1" src="../assets/images/MainPage/6.svg" alt="">
                 </div>
             </div>
             <div class="twoBlogInfo6 hoverTwoBlog2">
                 <div class="twoBlogInfo6Img">
-                    <img class="twoBlogInfo6Img2" src="../resources/images/MainPage/8.svg" alt="">
-                    <img class="twoBlogInfo6Img1" src="../resources/images/MainPage/7.svg" alt="">
+                    <img class="twoBlogInfo6Img2" src="../assets/images/MainPage/8.svg" alt="">
+                    <img class="twoBlogInfo6Img1" src="../assets/images/MainPage/7.svg" alt="">
                 </div>
                 <div class="twoBlogInfo4Title">
                     Учителям
@@ -270,7 +270,7 @@
                     Внеурочная деятельность
                 </div>
                 <div class="twoBlogInfo7Img">
-                    <img class="twoBlogInfo7Img1" src="../resources/images/MainPage/9.svg" alt="">
+                    <img class="twoBlogInfo7Img1" src="../assets/images/MainPage/9.svg" alt="">
                 </div>
             </div>
         </div>
@@ -292,7 +292,7 @@
                 <div class="newsThreeBlog">
                     <div class="newThreeBlog">
                         <div class="imgThreeBlog">
-                            <img class="imagesThreeBlog" src="../resources/images/news/1.png" alt="">
+                            <img class="imagesThreeBlog" src="../assets/images/news/1.png" alt="">
                             <div class="dateImgThreeBlog">
                                 21 Сентября 2023
                             </div>
@@ -304,7 +304,7 @@
                     </div>
                     <div class="newThreeBlog">
                         <div class="imgThreeBlog">
-                            <img class="imagesThreeBlog" src="../resources/images/news/2.png" alt="">
+                            <img class="imagesThreeBlog" src="../assets/images/news/2.png" alt="">
                             <div class="dateImgThreeBlog">
                                 21 Сентября 2023
                             </div>
@@ -316,7 +316,7 @@
                     </div>
                     <div class="newThreeBlog">
                         <div class="imgThreeBlog">
-                            <img class="imagesThreeBlog" src="../resources/images/news/3.png" alt="">
+                            <img class="imagesThreeBlog" src="../assets/images/news/3.png" alt="">
                             <div class="dateImgThreeBlog">
                                 21 Сентября 2023
                             </div>
@@ -328,7 +328,7 @@
                     </div>
                     <div class="newThreeBlog">
                         <div class="imgThreeBlog">
-                            <img class="imagesThreeBlog" src="../resources/images/news/4.png" alt="">
+                            <img class="imagesThreeBlog" src="../assets/images/news/4.png" alt="">
                             <div class="dateImgThreeBlog">
                                 21 Сентября 2023
                             </div>
@@ -451,10 +451,10 @@
                     </div>
                 </div>
                 <div class="colFourBlog">
-                    <img class="colImgFourBlog" src="../resources/images/mainPage/10.png" alt="">
-                    <img class="colImgSvgFourBlog" src="../resources/images/mainPage/pc2.svg" alt="">
+                    <img class="colImgFourBlog" src="../assets/images/mainPage/10.png" alt="">
+                    <img class="colImgSvgFourBlog" src="../assets/images/mainPage/pc2.svg" alt="">
                     <div class="colTypeFourBlog">
-                        <img class="colTypeImgFouBlog" src="../resources/images/mainPage/pc.svg" alt="">
+                        <img class="colTypeImgFouBlog" src="../assets/images/mainPage/pc.svg" alt="">
                         <div class="colTypeTextFourBlog">
                             Кибер Спорт
                         </div>

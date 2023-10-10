@@ -72,22 +72,22 @@
 
             <div class="threeColFooter">
                 <div class="versionThreeColFooter">
-                    <img class="imgThreeColFooter" src="../resources/images/mainPage/11.svg" alt="">
+                    <img class="imgThreeColFooter" src="../assets/images/mainPage/11.svg" alt="">
                     <div class="textThreeColFooter">Версия для слобовидящих</div>
                 </div>
                 <div class="buttonThreeColFooter">
-                    <img class="imgThreeColFooter" src="../resources/images/mainPage/12.svg" alt="">
+                    <img class="imgThreeColFooter" src="../assets/images/mainPage/12.svg" alt="">
                     <div class="textBtnThreeColFooter">Вопрос-ответ</div>
                 </div>
                 <div class="buttonThreeColFooter">
-                    <img class="imgThreeColFooter" src="../resources/images/mainPage/12.svg" alt="">
+                    <img class="imgThreeColFooter" src="../assets/images/mainPage/12.svg" alt="">
                     <div class="textBtnThreeColFooter">Другой вопрос</div>
                 </div>
                 <div class="buttonThreeColFooter">
-                    <img class="imgThreeColFooter" src="../resources/images/mainPage/13.svg" alt="">
+                    <img class="imgThreeColFooter" src="../assets/images/mainPage/13.svg" alt="">
                     <div class="textBtnThreeColFooter">Другой вопрос</div>
                 </div>
-                <img class="imgThreeFooter" src="../resources/images/mainPage/rocket.svg" alt="">
+                <img class="imgThreeFooter" src="../assets/images/mainPage/rocket.svg" alt="">
             </div>
         </div>
     </div>
