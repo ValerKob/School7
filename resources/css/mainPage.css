@@ -1,7 +1,6 @@
 /* One Blog */
 .oneBlog {
     width: 100vw;
-    min-width: 3500px;
     height: 900px;
 
     display: flex;
@@ -988,4 +987,10 @@
     font-style: normal;
     font-weight: 700;
     line-height: normal;
+}
+
+@media (max-width: 1440px) {
+    .oneBlog, .twoBlogGradient {
+        min-width: 1400px;
+    }
 }
