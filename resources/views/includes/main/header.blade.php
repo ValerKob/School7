@@ -31,27 +31,27 @@
             <ul class="menuUlSvg">
                 <li class="menuLiSvg">
                     <a href="">
-                        <img src="../assets/images/links/eye.svg" alt="">
+                        <img src="../assets/images/eye.svg" alt="">
                     </a>
                 </li>
                 <li class="menuLi">
                     <a href="">
-                        <img src="../assets/images/links/vector.svg" alt="">
+                        <img src="../assets/images/vector.svg" alt="">
                     </a>
                 </li>
                 <li class="menuLi">
                     <a href="">
-                        <img src="../assets/images/links/user.svg" alt="">
+                        <img src="../assets/images/user.svg" alt="">
                     </a>
                 </li>
                 <li class="menuLi">
                     <a href="">
-                        <img src="../assets/images/links/search.svg" alt="">
+                        <img src="../assets/images/search.svg" alt="">
                     </a>
                 </li>
                 <li class="menuLi">
                     <a href="">
-                        <img src="../assets/images/links/language.svg" alt="">
+                        <img src="../assets/images/language.svg" alt="">
                     </a>
                 </li>
             </ul>
