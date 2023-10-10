@@ -451,7 +451,7 @@
                     </div>
                 </div>
                 <div class="colFourBlog">
-                    <img class="colImgFourBlog" src="../assets/images/mainPage/10.png" alt="">
+                    <img class="colImgFourBlog" src="../assets/images/mainPage/imgStol.png" alt="">
                     <img class="colImgSvgFourBlog" src="../assets/images/mainPage/pc2.svg" alt="">
                     <div class="colTypeFourBlog">
                         <img class="colTypeImgFouBlog" src="../assets/images/mainPage/pc.svg" alt="">
