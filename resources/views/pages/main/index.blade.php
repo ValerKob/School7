@@ -292,7 +292,7 @@
                 <div class="newsThreeBlog">
                     <div class="newThreeBlog">
                         <div class="imgThreeBlog">
-                            <img class="imagesThreeBlog" src="../assets/images/news/1.png" alt="">
+                            <img class="imagesThreeBlog" src="../assets/images/1.png" alt="">
                             <div class="dateImgThreeBlog">
                                 21 Сентября 2023
                             </div>
@@ -304,7 +304,7 @@
                     </div>
                     <div class="newThreeBlog">
                         <div class="imgThreeBlog">
-                            <img class="imagesThreeBlog" src="../assets/images/news/2.png" alt="">
+                            <img class="imagesThreeBlog" src="../assets/images/2.png" alt="">
                             <div class="dateImgThreeBlog">
                                 21 Сентября 2023
                             </div>
@@ -316,7 +316,7 @@
                     </div>
                     <div class="newThreeBlog">
                         <div class="imgThreeBlog">
-                            <img class="imagesThreeBlog" src="../assets/images/news/3.png" alt="">
+                            <img class="imagesThreeBlog" src="../assets/images/3.png" alt="">
                             <div class="dateImgThreeBlog">
                                 21 Сентября 2023
                             </div>
@@ -328,7 +328,7 @@
                     </div>
                     <div class="newThreeBlog">
                         <div class="imgThreeBlog">
-                            <img class="imagesThreeBlog" src="../assets/images/news/4.png" alt="">
+                            <img class="imagesThreeBlog" src="../assets/images/4.png" alt="">
                             <div class="dateImgThreeBlog">
                                 21 Сентября 2023
                             </div>
