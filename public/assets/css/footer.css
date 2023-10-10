@@ -1,6 +1,5 @@
 footer {
     width: 100vw;
-    min-width: 3500px;
     height: 100%;
     background: #1A1D27;
 
@@ -207,4 +206,10 @@ footer {
     right: 0;
 
     z-index: 1;
+}
+
+@media (max-width: 1440px) {
+    footer {
+        min-width: 1400px;
+    }
 }
