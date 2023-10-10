@@ -8,6 +8,7 @@
     <!-- CSS -->
     <link rel="stylesheet" href="../resources/css/reset.css?<?= time() ?>">
     <link rel="stylesheet" href="../resources/css/header.css?<?= time() ?>">
+    <link rel="stylesheet" href="../resources/css/footer.css?<?= time() ?>">
     <link rel="stylesheet" href="../resources/css/mainPage.css?<?= time() ?>">
     <link rel="stylesheet" href="../resources/css/mainStyle.css?<?= time() ?>">
 
