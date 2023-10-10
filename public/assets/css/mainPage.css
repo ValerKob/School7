@@ -1,6 +1,7 @@
 /* One Blog */
 .oneBlog {
     width: 100vw;
+    min-width: 3500px;
     height: 900px;
 
     display: flex;
