@@ -2,17 +2,32 @@
     width: 100vw;
     height: auto;
 
-    margin: 0 auto;
-    
     position: fixed;
+
+    margin: 0 auto;
+
+    z-index: 100;
 }
 
 .header {
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    width: 100vw;
+    height: 100px;
+
+    background: var(--Gradient, linear-gradient(95deg, #FFCB2F -5.32%, #F05934 93.35%));
+
+    padding: 30px 0;
+
+    z-index: 101;
+}
+
+.headerWrapperCon {
     display: flex;
     justify-content: space-between;
     align-items: center;
-
-    padding: 45px 0;
 }
 
 /* Burger Menu */
@@ -33,6 +48,8 @@
     background-color: #fff;
 
     position: relative;
+
+    transition: all .3s ease-in-out 0s;
 }
 
 .burgerMenu::after,
@@ -44,6 +61,22 @@
     width: 40px;
     height: 2px;
     background-color: #fff;
+
+    transition: all .3s ease-in-out 0s;
+}
+
+.burgerMenu.active {
+    width: 0;
+}
+
+.burgerMenu.active::after {
+    transform: rotate(45deg);
+    top: 0;
+}
+
+.burgerMenu.active::before {
+    transform: rotate(-45deg);
+    top: 0;
 }
 
 .burgerMenu::before {
@@ -135,4 +168,157 @@
 
 .menuLink:hover::after {
     width: 100%;
+}
+
+
+/* Menu */
+.menu {
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    overflow: hidden;
+
+    width: 100vw;
+    height: 0;
+    background: #D9D9D9;
+    
+    z-index: 100;
+
+    transition: all .3s ease-in-out 0s;
+}
+
+.menu.active {
+    top: 100px;
+    height: 810px;
+}
+
+.rowMenu {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+
+    padding-top: 40px;
+    padding-left: 70px;
+}
+
+.colMenuLi {
+    margin-bottom: 20px;
+}
+
+.colMenuLink {
+    color: rgba(0, 0, 0, 0.90);
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+    position: relative;
+}
+
+.colMenuLink::after {
+    content: '';
+    position: absolute;
+    display: block;
+
+    top: 100%;
+    left: 0;
+    width: 0;
+    height: 2px;
+
+    background-color: #000;
+
+    transition: all .3s ease-in-out 0s;
+}
+
+.colMenuLink:hover::after {
+    width: 100%;
+}
+
+.colMenuTilte {
+    color: #565860;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.colMenuUlWhite {
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+.colMenuLiWhite {
+    margin-bottom: 10px;
+}
+
+.colMenuTilte {
+    margin-top: 35px;
+}
+
+.colMenuTilte:first-child {
+    margin-top: 0;
+}
+
+.colMenuLiWhite:last-child {
+    margin-bottom: 0;
+}
+
+.colMenuLinkWhite {
+    color: #565860;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.versionThreeColFooter.headerMenuWhite, .buttonThreeColFooter.headerMenuWhite {
+    background-color: transparent;
+
+    border-radius: 8px;
+    border: 2px solid #000;
+}
+
+.textBtnThreeColFooter.headerMenuWhite, .textThreeColFooter.headerMenuWhite {
+    color: #000;
+}
+
+.imgThreeColFooter.headerMenuWhite {
+    fill: #5046e5;
+}
+
+.colMenuTelWrapper:first-child {
+    margin-top: 70px;
+    margin-bottom: 30px;
+}
+
+.colMenuTelNum {
+    color: #FF800D;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.colMenuTelText {
+    color: #565860;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+    margin-top: 10px;
+}
+
+.colMenuLinkSocual {
+    margin-top: 60px;
+}
+
+.colMenuLinkSocualImg:first-child {
+    margin-right: 20px;
+}
+
+.headerMenuRocketImg {
+    position: absolute;
+    top: 50%;
+    left: 40%;
 }
