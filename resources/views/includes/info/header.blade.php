@@ -1,11 +1,19 @@
 <!--================ Start Header =================-->
+<div class="headerBackGround">
+    <div class="headerBackGroundRowEllipses">
+        <div class="headerBackGroundRowEllipse1"></div>
+        <div class="headerBackGroundRowEllipse2"></div>
+        <div class="headerBackGroundRowEllipse3"></div>
+        <div class="headerBackGroundRowEllipse4"></div>
+    </div>
+</div>
 <section class="headerWrapper">
-    <div class="header">
-        <div class="container">
+    <div class="header info">
+        <div class="container info">
             <div class="headerWrapperCon">
                 <div style="display: flex; align-items: center;">
                     <div class="burgerMenuWrapper" id="burgerMenu">
-                        <div class="burgerMenu" id="burgerMenuClose">
+                        <div class="burgerMenu info" id="burgerMenuClose">
 
                         </div>
                     </div>
@@ -16,22 +24,25 @@
                     </div>
                     <div class="headerMenu">
                         <div class="menuTitle">
-                            <h1 class="menuTitleSchool">МБОУ СОШ №7<h1>
+                            <a href="{{ route('main') }}">
+                                <h1 class="menuTitleSchool info">МБОУ СОШ №7<h1>
+                            </a>
                         </div>
                         <ul class="menuUl">
                             <li class="menuLi">
-                                <a class="menuLink" href="#">О школе</a>
+                                <a class="menuLink info" href="#">О школе</a>
                             </li>
                             <li class="menuLi">
-                                <a class="menuLink" href="#">Новости</a>
+                                <a class="menuLink info" href="#">Новости</a>
                             </li>
                             <li class="menuLi">
-                                <a class="menuLink" href="#">Родителям</a>
+                                <a class="menuLink info" href="#">Родителям</a>
                             </li>
                         </ul>
                     </div>
                 </div>
                 <ul class="menuUlSvg">
+                    @if(\Request::is("/"))
                     <li class="menuLiSvg">
                         <a href="">
                             <img src="../assets/images/eye.svg" alt="">
@@ -57,6 +68,33 @@
                             <img src="../assets/images/language.svg" alt="">
                         </a>
                     </li>
+                    @else
+                    <li class="menuLiSvg">
+                        <a href="">
+                            <img src="../assets/images/icons/eye.svg" alt="">
+                        </a>
+                    </li>
+                    <li class="menuLi">
+                        <a href="">
+                            <img src="../assets/images/icons/vector.svg" alt="">
+                        </a>
+                    </li>
+                    <li class="menuLi">
+                        <a href="">
+                            <img src="../assets/images/icons/user.svg" alt="">
+                        </a>
+                    </li>
+                    <li class="menuLi">
+                        <a href="">
+                            <img src="../assets/images/icons/search.svg" alt="">
+                        </a>
+                    </li>
+                    <li class="menuLi">
+                        <a href="">
+                            <img src="../assets/images/icons/language.svg" alt="">
+                        </a>
+                    </li>
+                    @endif
                 </ul>
             </div>
         </div>

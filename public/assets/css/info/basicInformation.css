@@ -1,0 +1,88 @@
+/* Glav */
+.glav {
+    position: relative;
+    z-index: 10;
+    
+    margin-top: 160px;
+}
+
+.containerGlavInfo {
+    margin: 0 140px;
+}
+
+/* Glav Style */
+.txSt {
+    color: #000;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+
+.glavTitle {
+    color: #000;
+
+    margin-bottom: 40px;
+}
+
+.glavInfoRow {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 20px;
+
+    margin-bottom: 80px;
+}
+
+.glavInfoCol {
+    color: rgba(0, 0, 0, 0.50);
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.glavContent {
+    display: flex;
+}
+
+.glavContentImage {
+    margin-top: -50px;
+    margin-left: -100px;
+}
+
+.glavContentImg {
+    width: 400px;
+    height: 400px;
+}
+
+.glavContentText {
+    max-width: 600px;
+}
+
+.glavContentTextTitle {
+    font-size: 20px;
+
+    margin-bottom: 20px;
+}
+
+.glavContentTextSubTitle {
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 25px;
+
+    font-size: 18px;
+}
+
+.glavContentTextSubTitle:first-child {
+    margin-top: 0;
+}
+
+.glavContentTextSub {
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+.glavContentTextSup {
+    margin-left: 20px;
+    margin-bottom: 30px;
+}

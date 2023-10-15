@@ -16,3 +16,6 @@ use Illuminate\Support\Facades\Route;
 // VIEW
 
 Route::view('', 'pages.main.index')->name('main');
+
+// Info
+Route::view('info', 'pages.info.index')->name('basicInformation');

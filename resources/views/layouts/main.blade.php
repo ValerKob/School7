@@ -12,6 +12,8 @@
     <link rel="stylesheet" href="./assets/css/mainPage.css?<?= time() ?>">
     <link rel="stylesheet" href="./assets/css/mainStyle.css?<?= time() ?>">
 
+    <link rel="stylesheet" href="./assets/css/info/basicInformation.css?<?= time() ?>">
+
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -30,14 +32,23 @@
 </head>
 
 <body>
-    <!-- Header -->
-    @include('includes.main.header')
+    <div class="wrapperBody">
+        <!-- Header -->
+        @if(\Request::is("/"))
+        @include('includes.main.header')
+        @else
+        @include('includes.info.header')
+        @endif
 
-    <!-- Main -->
-    @yield('content')
+        <!-- Main -->
+        <div class="container_wrapper">
+            @yield('content')
+        </div>
 
-    <!-- Fooret -->
-    @include('includes.main.footer')
+        <!-- Fooret -->
+        @include('includes.main.footer')
+    </div>
+
 
     <!-- JS -->
     <script src="./assets/js/burgerMenu.js?<?= time() ?>"></script>

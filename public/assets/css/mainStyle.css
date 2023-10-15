@@ -3,6 +3,17 @@ body {
     /* font-family: 'Montserrat', sans-serif; */
 }
 
+.wrapperBody {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100vh;
+}
+
+.container_wrapper {
+    flex-grow: 1;
+}
+
 .container {
     width: 1440px;
     height: auto;
@@ -10,4 +21,10 @@ body {
     margin: 0 auto;
 
     padding: 0 120px;
+}
+
+.container.info {
+    width: 1320px;
+
+    padding: 0px 60px 0 40px;
 }
