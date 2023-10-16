@@ -112,7 +112,7 @@
                         <a class="colOneBlogDoc" href="assets/files/sport/Приказ_о_создании_школьного_спортивного_клуба.PDF" download>
                             <div class="colOneBlogDocColor red">.pdf</div>
                             <div class="colOneBlogDocContainer">
-                                <div class="colOneBlogDocContainerTitle txSt">Положение о спортивном клубе</div>
+                                <div class="colOneBlogDocContainerTitle txSt">Приказ_о_создании_школьного_спортивного_клуба</div>
                                 <div class="colOneBlogDocContainerData">
                                     <div class="colOneBlogDocContainerDate">16.10.2023</div>
                                     <div class="colOneBlogDocContainerText"><b>Тип:</b>Школьный спортивный клуб</div>
