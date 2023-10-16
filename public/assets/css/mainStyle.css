@@ -28,3 +28,17 @@ body {
 
     padding: 0px 60px 0 40px;
 }
+
+.txSt {
+    color: #000;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.txStW {
+    color: #fff;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}

@@ -30,7 +30,7 @@
                         </div>
                         <ul class="menuUl">
                             <li class="menuLi">
-                                <a class="menuLink info" href="#">О школе</a>
+                                <a class="menuLink info" href="{{ route('basicInformation') }}">О школе</a>
                             </li>
                             <li class="menuLi">
                                 <a class="menuLink info" href="#">Новости</a>
@@ -105,40 +105,40 @@
                 <div class="colMenu">
                     <ul class="colMenuUl">
                         <li class="colMenuLi">
-                            <a class="colMenuLink" href="#">Школа</a>
+                            <a class="colMenuLink" href="{{ route('school') }}">Школа</a>
                         </li>
                         <li class="colMenuLi">
                             <a class="colMenuLink" href="{{ route('basicInformation') }}">Основные сведения</a>
                         </li>
                         <li class="colMenuLi">
-                            <a class="colMenuLink" href="#">Структура и органы управления образовательной организацией</a>
+                            <a class="colMenuLink" href="{{ route('structureAndManagement') }}">Структура и органы управления образовательной организацией</a>
                         </li>
                         <li class="colMenuLi">
-                            <a class="colMenuLink" href="#">Документы</a>
+                            <a class="colMenuLink" href="{{ route('documents') }}">Документы</a>
                         </li>
                         <li class="colMenuLi">
-                            <a class="colMenuLink" href="#">Обрзование</a>
+                            <a class="colMenuLink" href="{{ route('education') }}">Обрзование</a>
                         </li>
                         <li class="colMenuLi">
-                            <a class="colMenuLink" href="#">Руководство</a>
+                            <a class="colMenuLink" href="{{ route('guide') }}">Руководство</a>
                         </li>
                         <li class="colMenuLi">
-                            <a class="colMenuLink" href="#">Материально-техническое обеспечение</a>
+                            <a class="colMenuLink" href="{{ route('material') }}">Материально-техническое обеспечение</a>
                         </li>
                         <li class="colMenuLi">
-                            <a class="colMenuLink" href="#">Услуги</a>
+                            <a class="colMenuLink" href="{{ route('services') }}">Услуги</a>
                         </li>
                         <li class="colMenuLi">
-                            <a class="colMenuLink" href="#">Финансово-хозяйственная деятельность</a>
+                            <a class="colMenuLink" href="{{ route('financial') }}">Финансово-хозяйственная деятельность</a>
                         </li>
                         <li class="colMenuLi">
-                            <a class="colMenuLink" href="#">Вакантные места для приема (перевода) обучающихся</a>
+                            <a class="colMenuLink" href="{{ route('places') }}">Вакантные места для приема (перевода) обучающихся</a>
                         </li>
                         <li class="colMenuLi">
-                            <a class="colMenuLink" href="#">Доступная среда</a>
+                            <a class="colMenuLink" href="{{ route('available') }}">Доступная среда</a>
                         </li>
                         <li class="colMenuLi">
-                            <a class="colMenuLink" href="#">Международное сотрудничество</a>
+                            <a class="colMenuLink" href="{{ route('international') }}">Международное сотрудничество</a>
                         </li>
                         <!-- 
                         <li class="colMenuLi">

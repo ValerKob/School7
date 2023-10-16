@@ -14,6 +14,8 @@
 
     <link rel="stylesheet" href="./assets/css/info/basicInformation.css?<?= time() ?>">
 
+    <link rel="stylesheet" href="./assets/css/documents/basicDocuments.css?<?= time() ?>">
+
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -36,6 +38,8 @@
         <!-- Header -->
         @if(\Request::is("/"))
         @include('includes.main.header')
+        @elseif(\Request::is("documents"))
+        @include('includes.static.header')
         @else
         @include('includes.info.header')
         @endif
