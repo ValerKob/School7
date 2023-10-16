@@ -98,7 +98,7 @@
                             </div>
                         </a>
 
-                        <a class="colOneBlogDoc" href="assets/files/sport/Положение о спортивном клубе.pdf" download>
+                        <a class="colOneBlogDoc" href="assets/files/sport/Положение о спортивном клубе.PDF" download>
                             <div class="colOneBlogDocColor red">.pdf</div>
                             <div class="colOneBlogDocContainer">
                                 <div class="colOneBlogDocContainerTitle txSt">Положение о спортивном клубе</div>
@@ -109,7 +109,7 @@
                             </div>
                         </a>
 
-                        <a class="colOneBlogDoc" href="assets/files/sport/Приказ_о_создании_школьного_спортивного_клуба.pdf" download>
+                        <a class="colOneBlogDoc" href="assets/files/sport/Приказ_о_создании_школьного_спортивного_клуба.PDF" download>
                             <div class="colOneBlogDocColor red">.pdf</div>
                             <div class="colOneBlogDocContainer">
                                 <div class="colOneBlogDocContainerTitle txSt">Положение о спортивном клубе</div>
