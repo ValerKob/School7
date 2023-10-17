@@ -282,7 +282,7 @@
     top: 0;
     left: 0;
 
-    overflow: hidden;
+    overflow: scroll;
 
     width: 100vw;
     height: 0;
@@ -295,9 +295,8 @@
 
 .menu.active {
     top: 100px;
-    height: auto;
-
-    overflow: auto;
+    height: 100vh;
+    overflow: scroll;
 }
 
 .rowMenu {
