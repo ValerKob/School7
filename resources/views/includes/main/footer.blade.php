@@ -3,7 +3,7 @@
     <div class="container">
         <div class="wrapperFooter">
             <div class="oneColFooter">
-                <div class="titleColFooter">ШКОЛА МБОУ СОШ №7</div>
+                <div class="titleColFooter">ШКОЛА МБОУ СШ №7</div>
                 <div class="addresColFooter">Муниципальное бюджетное образовательное учреждение Средняя общеобразовательная школа № 7, города Архангельск.</div>
                 <div class="infoColFooter">
                     <div class="dataColFooter">
