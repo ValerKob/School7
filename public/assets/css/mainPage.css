@@ -1091,3 +1091,85 @@
     font-weight: 700;
     line-height: normal;
 }
+
+/* Media */
+@media (max-width: 1250px) {
+
+    /* One Blog */
+    .oneBlogSchool {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        width: 400px;
+        height: 400px;
+    }
+
+    .imgOneBlog {
+        width: 400px;
+        height: 400px;
+    }
+
+    /* Two Blog */
+    .rowTwoBlog {
+        gap: 25px;
+    }
+}
+
+@media (max-width: 1200px) {
+
+    /* Three Blog */
+    .rowThreeBlog {
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    .colThreeBlog:last-child {
+        margin-top: 50px;
+    }
+}
+
+@media (max-width: 800px) {
+
+    /* One Blog */
+    .oneBlogSchool {
+        display: none;
+    }
+
+    .rowOneBlog {
+        display: block;
+    }
+
+    .colOneBlogOne {
+        position: relative;
+        z-index: 10;
+
+        padding: 0;
+    }
+
+    /* Two Blog */
+    .colTwoBlog {
+        width: 250px;
+        height: 200px;
+    }
+
+    .colTwoBlogImg {
+        width: 100px;
+        height: 100px;
+    }
+
+    .colTwoBlogTilte {
+        font-size: 26px;
+    }
+}
+
+@media (max-width: 600px) {
+
+    /* Three */
+    .newsThreeBlog {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+    }
+}

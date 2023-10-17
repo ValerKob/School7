@@ -255,10 +255,10 @@
             </a>
 
             <a href="{{ route('services') }}">
-            <div class="colTwoBlog orange">
-                <img class="colTwoBlogImg" src="assets/images/infoManePage/4.svg" alt="">
-                <div class="colTwoBlogTilte">Услуги</div>
-            </div>
+                <div class="colTwoBlog orange">
+                    <img class="colTwoBlogImg" src="assets/images/infoManePage/4.svg" alt="">
+                    <div class="colTwoBlogTilte">Услуги</div>
+                </div>
             </a>
 
             <a href="{{ route('financial') }}">
@@ -271,7 +271,7 @@
             <a href="{{ route('places') }}">
                 <div class="colTwoBlog eng">
                     <img class="colTwoBlogImg" src="assets/images/infoManePage/6.svg" alt="">
-                    <div class="colTwoBlogTilte">Вакансий</div>
+                    <div class="colTwoBlogTilte">Вакансии</div>
                 </div>
             </a>
 
@@ -285,8 +285,8 @@
             <a href="{{ route('international') }}">
                 <div class="colTwoBlog esa">
                     <img class="colTwoBlogImg" src="assets/images/infoManePage/7.svg" alt="">
-                    <div class="colTwoBlogTilte">Сотрдничество</div>
-                </div>   
+                    <div class="colTwoBlogTilte">Сотрудничество</div>
+                </div>
             </a>
         </div>
         <!-- <div class="wrapperTwoBlog">
