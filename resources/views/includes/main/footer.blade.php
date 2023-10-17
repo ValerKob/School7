@@ -72,7 +72,7 @@
 
             <div class="threeColFooter">
                 <div class="versionThreeColFooter">
-                    <img class="imgThreeColFooter" src="../assets/images/col11.svg" alt="">
+                    <img class="imgThreeColFooter" src="../assets/images/col11.svg" alt="ВЕРСИЯ ДЛЯ СЛАБОВИДЯЩИХ" title="ВЕРСИЯ ДЛЯ СЛАБОВИДЯЩИХ">
                     <div class="textThreeColFooter">Версия для слобовидящих</div>
                 </div>
                 <div class="buttonThreeColFooter">

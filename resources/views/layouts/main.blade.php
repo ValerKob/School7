@@ -17,8 +17,8 @@
     <link rel="stylesheet" href="./assets/css/documents/basicDocuments.css?<?= time() ?>">
 
     <!-- CSS Media -->
-    <link rel="stylesheet" href="./assets/css/media/header.css?<?= time() ?>">
-    <link rel="stylesheet" href="./assets/css/media/mainPage.css?<?= time() ?>"
+
+    <!-- CSS Invailed -->
 
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -63,9 +63,12 @@
         @include('includes.main.footer')
     </div>
 
-
     <!-- JS -->
     <script src="./assets/js/burgerMenu.js?<?= time() ?>"></script>
+
+    <!-- JS Verion Invailed -->
+    <script src="https://lidrekon.ru/slep/js/jquery.js?<?= time() ?>"></script>
+    <script src="https://lidrekon.ru/slep/js/uhpv-full.min.js?<?= time() ?>"></script>
 </body>
 
 </html>

@@ -36,7 +36,7 @@
                 <ul class="menuUlSvg">
                     <li class="menuLiSvg">
                         <a href="">
-                            <img src="../assets/images/eye.svg" alt="">
+                            <img id="specialButton" src="../assets/images/eye.svg" alt="ВЕРСИЯ ДЛЯ СЛАБОВИДЯЩИХ" title="ВЕРСИЯ ДЛЯ СЛАБОВИДЯЩИХ">
                         </a>
                     </li>
                     <li class="menuLi">

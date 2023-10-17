@@ -3,7 +3,7 @@ footer {
     height: 100%;
     background: #1A1D27;
 
-    z-index: -10;
+    z-index: 10;
 }
 
 .wrapperFooter {
