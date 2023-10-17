@@ -104,19 +104,6 @@
                         <li class="colMenuLi">
                             <a class="colMenuLink" href="{{ route('international') }}">Международное сотрудничество</a>
                         </li>
-                        <!-- 
-                        <li class="colMenuLi">
-                            <a class="colMenuLink" href="#">Мероприятия</a>
-                        </li> -->
-                        <!-- <li class="colMenuLi">
-                            <a class="colMenuLink" href="#">Молодёжные объединения</a>
-                        </li>
-                        <li class="colMenuLi">
-                            <a class="colMenuLink" href="#">Совет старшеклассников</a>
-                        </li> -->
-                        <!-- <li class="colMenuLi">
-                            <a class="colMenuLink" href="#">Волонтёры</a>
-                        </li> -->
                     </ul>
                 </div>
 

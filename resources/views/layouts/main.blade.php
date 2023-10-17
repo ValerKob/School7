@@ -40,7 +40,19 @@
 <body>
     <div class="wrapperBody">
         <!-- Header -->
+        
         @include('includes.main.header')
+
+        @if(\Request::is("info"))
+        <div class="headerBackGround">
+            <div class="headerBackGroundRowEllipses">
+                <div class="headerBackGroundRowEllipse1"></div>
+                <div class="headerBackGroundRowEllipse2"></div>
+                <div class="headerBackGroundRowEllipse3"></div>
+                <div class="headerBackGroundRowEllipse4"></div>
+            </div>
+        </div>
+        @endif;
 
         <!-- Main -->
         <div class="container_wrapper">
