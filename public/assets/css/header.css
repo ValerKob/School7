@@ -184,6 +184,9 @@
 
 /* Logo */
 .logo {
+    width: 45px;
+    height: 45px;
+
     margin: 0 30px;
 
     cursor: pointer;
