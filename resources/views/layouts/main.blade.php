@@ -40,13 +40,13 @@
 <body>
     <div class="wrapperBody">
         <!-- Header -->
-        @if(\Request::is("/"))
+        <!-- @if(\Request::is("/")) -->
         @include('includes.main.header')
-        @elseif(\Request::is("documents"))
-        @include('includes.static.header')
+        <!-- @elseif(\Request::is("documents")) -->
+        <!-- @include('includes.static.header')
         @else
         @include('includes.info.header')
-        @endif
+        @endif -->
 
         <!-- Main -->
         <div class="container_wrapper">
