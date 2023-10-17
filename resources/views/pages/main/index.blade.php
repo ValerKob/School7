@@ -236,7 +236,7 @@
             <a href="{{ route('education') }}">
                 <div class="colTwoBlog blue2">
                     <img class="colTwoBlogImg" src="assets/images/infoManePage/5.svg" alt="">
-                    <div class="colTwoBlogTilte">Обрзование</div>
+                    <div class="colTwoBlogTilte">Образование</div>
                 </div>
             </a>
 
