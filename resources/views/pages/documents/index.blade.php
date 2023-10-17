@@ -23,9 +23,7 @@
             </div>
         </div>
     </div>
-    <div class="documentsContainer">
-        <img class="documentsImgHeader" src="./assets/images/documents/header.svg" alt="">
-    </div>
+    <img class="documentsImgHeader" src="./assets/images/documents/header.svg" alt="">
 </section>
 
 <section class="oneBlogDocuments">
@@ -90,7 +88,7 @@
                         <a class="colOneBlogDoc" href="assets/files/sport/План_спортивно_массовых_мероприятий_ШСК.pdf" download>
                             <div class="colOneBlogDocColor red">.pdf</div>
                             <div class="colOneBlogDocContainer">
-                                <div class="colOneBlogDocContainerTitle txSt">План_спортивно_массовых_мероприятий_ШСК</div>
+                                <div class="colOneBlogDocContainerTitle txSt">План спортивно массовых мероприятий ШСК</div>
                                 <div class="colOneBlogDocContainerData">
                                     <div class="colOneBlogDocContainerDate">16.10.2023</div>
                                     <div class="colOneBlogDocContainerText"><b>Тип:</b>Школьный спортивный клуб</div>
@@ -112,7 +110,7 @@
                         <a class="colOneBlogDoc" href="assets/files/sport/Приказ_о_создании_школьного_спортивного_клуба.PDF" download>
                             <div class="colOneBlogDocColor red">.pdf</div>
                             <div class="colOneBlogDocContainer">
-                                <div class="colOneBlogDocContainerTitle txSt">Приказ_о_создании_школьного_спортивного_клуба</div>
+                                <div class="colOneBlogDocContainerTitle txSt">Приказ о создании школьного спортивного клуба</div>
                                 <div class="colOneBlogDocContainerData">
                                     <div class="colOneBlogDocContainerDate">16.10.2023</div>
                                     <div class="colOneBlogDocContainerText"><b>Тип:</b>Школьный спортивный клуб</div>
