@@ -314,3 +314,11 @@
         max-width: 600px;
     }
 }
+
+@media (max-width: 500px) {
+    /* One Blog Dockuments */
+    .colOneBlogDocuments {
+        width: 100%;
+        max-width: 500px;
+    }
+}
