@@ -25,12 +25,12 @@
                     <div class="headerMenu">
                         <div class="menuTitle">
                             <a href="{{ route('main') }}">
-                                <h1 class="menuTitleSchool info">МБОУ СШ №7<h1>
+                                <h1 class="menuTitleSchool info">МБОУ&nbspСШ&nbsp№7<h1>
                             </a>
                         </div>
                         <ul class="menuUl">
                             <li class="menuLi">
-                                <a class="menuLink info" href="{{ route('basicInformation') }}">О школе</a>
+                                <a class="menuLink info" href="{{ route('basicInformation') }}">О&nbspшколе</a>
                             </li>
                             <li class="menuLi">
                                 <a class="menuLink info" href="#">Новости</a>

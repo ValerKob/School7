@@ -17,12 +17,12 @@
                     <div class="headerMenu">
                         <div class="menuTitle">
                             <a href="{{ route('main') }}">  
-                                <h1 class="menuTitleSchool">МБОУ СШ №7<h1>
+                                <h1 class="menuTitleSchool">МБОУ&nbspСШ&nbsp№7<h1>
                             </a>
                         </div>
                         <ul class="menuUl">
                             <li class="menuLi">
-                                <a class="menuLink" href="{{ route('basicInformation') }}">О школе</a>
+                                <a class="menuLink" href="{{ route('basicInformation') }}">О&nbspшколе</a>
                             </li>
                             <li class="menuLi">
                                 <a class="menuLink" href="#">Новости</a>
@@ -120,7 +120,7 @@
                     </ul>
                 </div>
 
-                <div class="colMenu">
+                <div class="colMenu two">
                     <h1 class="colMenuTilte">Образование</h1>
                     <ul class="colMenuUlWhite">
                         <li class="colMenuLiWhite">

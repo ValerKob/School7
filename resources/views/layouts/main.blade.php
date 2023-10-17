@@ -16,6 +16,9 @@
 
     <link rel="stylesheet" href="./assets/css/documents/basicDocuments.css?<?= time() ?>">
 
+    <link rel="stylesheet" href="./assets/css/media/header.css?<?= time() ?>">
+    <link rel="stylesheet" href="./assets/css/media/mainPage.css?<?= time() ?>">
+
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

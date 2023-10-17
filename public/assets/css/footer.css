@@ -8,12 +8,14 @@ footer {
 
 .wrapperFooter {
     display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
 
     padding: 50px 40px 90px;
 }
 
 .oneColFooter {
-    width: 420px;
+    max-width: 420px;
 }
 
 .titleColFooter {
@@ -27,7 +29,7 @@ footer {
 }
 
 .addresColFooter {
-    width: 420px;
+    max-width: 420px;
 
     color: #FFF;
     font-size: 16px;
@@ -94,10 +96,6 @@ footer {
 
 .linkColFooter:last-child {
     margin-bottom: 0;
-}
-
-.twoColFooter {
-    margin: 0 150px 0 70px;
 }
 
 .titleTwoColFooter {
@@ -208,8 +206,9 @@ footer {
     z-index: 1;
 }
 
-@media (max-width: 1440px) {
-    footer {
-        min-width: 1400px;
+@media (max-width: 1100px) {
+    /* Footer */
+    .threeColFooter {
+        margin-top: 60px;
     }
 }

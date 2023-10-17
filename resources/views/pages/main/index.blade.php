@@ -195,20 +195,11 @@
     <div class="twoBlogGradient">
 
     </div>
-    <div class="twoBlogEllipse1">
-        <svg xmlns="http://www.w3.org/2000/svg" width="141" height="141" viewBox="0 0 141 141" fill="none">
-            <circle cx="70.3814" cy="70.3815" r="70.2674" transform="rotate(-63.2372 70.3814 70.3815)" fill="url(#paint0_linear_54_124)" fill-opacity="0.5" />
-            <defs>
-                <linearGradient id="paint0_linear_54_124" x1="70.3814" y1="0.11409" x2="70.3814" y2="140.649" gradientUnits="userSpaceOnUse">
-                    <stop stop-color="#CCFFFF" stop-opacity="0.5" />
-                    <stop offset="1" stop-color="#4D88FF" stop-opacity="0.5" />
-                </linearGradient>
-            </defs>
-        </svg>
+    <div class="container">
+        <div class="twoBlogEllipse1"></div>
+        <div class="twoBlogEllipse2"></div>
+        <div class="twoBlogEllipse3"></div>
     </div>
-
-    <div class="twoBlogEllipse2"></div>
-    <div class="twoBlogEllipse3"></div>
     <div class="container" style="z-index: 10;">
         <div class="twoBlogTitle">
             Самая лучшая школа

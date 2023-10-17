@@ -17,7 +17,7 @@
 
 .colOneBlogOne {
     padding-left: 40px;
-    width: 480px;
+    max-width: 480px;
 }
 
 .titleOneBlog {
@@ -370,8 +370,8 @@
 
 .twoBlogEllipse1 {
     position: absolute;
-    top: -15px;
-    left: 770px;
+    top: -5%;
+    left: 65%;
     z-index: 1;
 
     width: 140px;
@@ -379,13 +379,13 @@
     transform: rotate(-63.237deg);
     flex-shrink: 0;
 
-    fill: linear-gradient(180deg, rgba(204, 255, 255, 0.25) 0%, rgba(77, 136, 255, 0.25) 100%);
-}
+    border-radius: 280px;
+    background: linear-gradient(180deg, rgba(204, 255, 255, 0.25) 0%, rgba(77, 136, 255, 0.25) 100%);}
 
 .twoBlogEllipse2 {
     position: absolute;
-    top: 300px;
-    left: 0;
+    top: 20%;
+    left: 9%;
     z-index: 1;
 
     width: 280px;
@@ -399,8 +399,8 @@
 
 .twoBlogEllipse3 {
     position: absolute;
-    top: 300px;
-    left: 1500px;
+    top: 10%;
+    left: 75%;
     z-index: -1;
 
     width: 440px;
@@ -653,8 +653,12 @@
 }
 
 .rowTwoBlog {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+    margin-top: 50px;
+
     gap: 50px;
 }
 
@@ -666,7 +670,7 @@
 
     text-align: center;
 
-    max-width: 300px;
+    width: 300px;
     height: 230px;
     flex-shrink: 0;
 
@@ -744,12 +748,13 @@
 }
 
 .colThreeBlog {
-    width: 100%;
+    max-width: auto;
 
-    margin-right: 100px;
+    margin-right: 30px;
 }
 
 .colThreeBlog:last-child {
+    max-width: 500px;
     margin-right: 0;
 }
 
@@ -825,7 +830,7 @@
 }
 
 .textImgThreeBlog {
-    width: 215px;
+    max-width: 215px;
 
     position: absolute;
     bottom: 40px;
@@ -890,7 +895,7 @@
 }
 
 .eventTextThreeBlog {
-    width: 350px;
+    max-width: 350px;
 
     color: #000;
     font-size: 16px;
@@ -1082,10 +1087,4 @@
     font-style: normal;
     font-weight: 700;
     line-height: normal;
-}
-
-@media (max-width: 1440px) {
-    .oneBlog, .twoBlogGradient {
-        min-width: 1400px;
-    }
 }
