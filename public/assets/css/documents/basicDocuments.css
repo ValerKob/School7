@@ -288,14 +288,6 @@
     margin-right: 5px;
 }
 
-/* Media Documents */
-@media (max-width: 1440px) {
-    /* One Blog Dockuments */
-    .oneBlogDocumentsWrapper {
-
-    }
-}
-
 @media (max-width: 1000px) {
     /* One Blog Dockuments */
     .documentsWrapper {
