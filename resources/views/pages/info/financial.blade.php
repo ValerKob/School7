@@ -14,7 +14,7 @@
                 <a href="{{ route('basicInformation') }}" class="glavInfoCol">Основные сведения</a>
                 <a href="{{ route('documents') }}" class="glavInfoCol">Документы</a>
                 <a href="{{ route('structureAndManagement') }}" class="glavInfoCol">Структура и органы управления образовательной организацией</a>
-                <a href="{{ route('education') }}" class="glavInfoCol">Обрзование</a>
+                <a href="{{ route('education') }}" class="glavInfoCol">Образование</a>
                 <a href="{{ route('guide') }}" class="glavInfoCol">Руководство</a>
                 <a href="{{ route('material') }}" class="glavInfoCol">Материально-техническое обеспечение</a>
                 <a href="{{ route('services') }}" class="glavInfoCol">Услуги</a>

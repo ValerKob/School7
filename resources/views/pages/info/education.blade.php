@@ -1,6 +1,6 @@
 @extends('layouts.main')
 
-@section('title', 'Обрзование')
+@section('title', 'Образование')
 
 @section('content')
 
@@ -8,7 +8,7 @@
 <section class="glav">
     <div class="container">
         <div class="containerGlavInfo">
-            <div class="glavTitle txSt">Обрзование</div>
+            <div class="glavTitle txSt">Образование</div>
             <div class="glavInfoRow">
                 <a href="{{ route('school') }}" class="glavInfoCol">Школа</a>
                 <a href="{{ route('basicInformation') }}" class="glavInfoCol">Основные сведения</a>

@@ -17,7 +17,7 @@
                     <div class="headerMenu">
                         <div class="menuTitle">
                             <a href="{{ route('main') }}">  
-                                <h1 class="menuTitleSchool">МБОУ СОШ №7<h1>
+                                <h1 class="menuTitleSchool">МБОУ СШ №7<h1>
                             </a>
                         </div>
                         <ul class="menuUl">

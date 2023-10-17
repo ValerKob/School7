@@ -213,7 +213,92 @@
         <div class="twoBlogTitle">
             Самая лучшая школа
         </div>
-        <div class="wrapperTwoBlog">
+        <div class="rowTwoBlog">
+            <a href="{{ route('school') }}">
+                <div class="colTwoBlog blue">
+                    <img class="colTwoBlogImg" src="assets/images/infoManePage/1.svg" alt="">
+                    <div class="colTwoBlogTilte">Школа</div>
+                </div>
+            </a>
+
+            <a href="{{ route('basicInformation') }}">
+                <div class="colTwoBlog fiel">
+                    <img class="colTwoBlogImg" src="assets/images/infoManePage/2.svg" alt="">
+                    <div class="colTwoBlogTilte">Основные сведения</div>
+                </div>
+            </a>
+
+            <a href="{{ route('structureAndManagement') }}">
+                <div class="colTwoBlog fiil">
+                    <img class="colTwoBlogImg" src="assets/images/infoManePage/3.svg" alt="">
+                    <div class="colTwoBlogTilte">Cтруктура</div>
+                </div>
+            </a>
+
+            <a href="{{ route('documents') }}">
+                <div class="colTwoBlog orange">
+                    <img class="colTwoBlogImg" src="assets/images/infoManePage/4.svg" alt="">
+                    <div class="colTwoBlogTilte">Документы</div>
+                </div>
+            </a>
+
+            <a href="{{ route('education') }}">
+                <div class="colTwoBlog blue2">
+                    <img class="colTwoBlogImg" src="assets/images/infoManePage/5.svg" alt="">
+                    <div class="colTwoBlogTilte">Обрзование</div>
+                </div>
+            </a>
+
+            <a href="{{ route('guide') }}">
+                <div class="colTwoBlog eng">
+                    <img class="colTwoBlogImg" src="assets/images/infoManePage/6.svg" alt="">
+                    <div class="colTwoBlogTilte">Руководство</div>
+                </div>
+            </a>
+
+            <a href="{{ route('material') }}">
+                <div class="colTwoBlog esa">
+                    <img class="colTwoBlogImg" src="assets/images/infoManePage/7.svg" alt="">
+                    <div class="colTwoBlogTilte">Материальное обеспечение</div>
+                </div>
+            </a>
+
+            <a href="{{ route('services') }}">
+            <div class="colTwoBlog orange">
+                <img class="colTwoBlogImg" src="assets/images/infoManePage/4.svg" alt="">
+                <div class="colTwoBlogTilte">Услуги</div>
+            </div>
+            </a>
+
+            <a href="{{ route('financial') }}">
+                <div class="colTwoBlog blue2">
+                    <img class="colTwoBlogImg" src="assets/images/infoManePage/5.svg" alt="">
+                    <div class="colTwoBlogTilte">Финансы</div>
+                </div>
+            </a>
+
+            <a href="{{ route('places') }}">
+                <div class="colTwoBlog eng">
+                    <img class="colTwoBlogImg" src="assets/images/infoManePage/6.svg" alt="">
+                    <div class="colTwoBlogTilte">Вакансий</div>
+                </div>
+            </a>
+
+            <a href="{{ route('available') }}">
+                <div class="colTwoBlog blue">
+                    <img class="colTwoBlogImg" src="assets/images/infoManePage/7.svg" alt="">
+                    <div class="colTwoBlogTilte">Доступная среда</div>
+                </div>
+            </a>
+
+            <a href="{{ route('international') }}">
+                <div class="colTwoBlog esa">
+                    <img class="colTwoBlogImg" src="assets/images/infoManePage/7.svg" alt="">
+                    <div class="colTwoBlogTilte">Сотрдничество</div>
+                </div>   
+            </a>
+        </div>
+        <!-- <div class="wrapperTwoBlog">
             <div class="twoBlogInfo1 hoverTwoBlog1">
                 <div class="twoBlogInfo1Title">
                     Родителям
@@ -273,7 +358,7 @@
                     <img class="twoBlogInfo7Img1" src="../assets/images/9.svg" alt="">
                 </div>
             </div>
-        </div>
+        </div> -->
     </div>
 </section>
 
@@ -425,7 +510,7 @@
         </div>
     </div>
 </section>
-
+<!-- 
 <section class="fourBlog">
     <div class="container">
         <div class="wrapperFourBlog">
@@ -506,7 +591,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 <!--================ End Pages Main =================-->
 
 @endsection('content')

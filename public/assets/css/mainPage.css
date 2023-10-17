@@ -652,9 +652,92 @@
     transform: scale(1.05);
 }
 
+.rowTwoBlog {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 50px;
+}
+
+.colTwoBlog {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    text-align: center;
+
+    max-width: 300px;
+    height: 230px;
+    flex-shrink: 0;
+
+    border-radius: 16px;
+
+    cursor: pointer;
+
+    transition: all .3s ease-in-out 0s;
+}
+
+.colTwoBlog:hover {
+    transform: scale(1.1);
+}
+
+.colTwoBlog.blue {
+    background: #00A3EB;
+
+    /* ShaDown */
+    box-shadow: 0px 32px 40px -30px rgba(0, 0, 0, 0.50);
+}
+
+.colTwoBlog.fiel {
+    background: #9A1EED;
+
+    /* ShaDown */
+    box-shadow: 0px 32px 40px -30px rgba(0, 0, 0, 0.50);
+}
+
+.colTwoBlog.fiil {
+    background: #DF32E8;
+    box-shadow: 0px 32px 40px rgba(0, 0, 0, 0.50);
+}
+
+.colTwoBlog.orange {
+    background: #FF800D;
+    
+    /* ShaDown */
+    box-shadow: 0px 32px 40px -30px rgba(0, 0, 0, 0.50);
+}
+
+.colTwoBlog.blue2 {
+    background: #1032ED;
+
+    /* ShaDown */
+    box-shadow: 0px 32px 40px -30px rgba(0, 0, 0, 0.50);
+}
+
+.colTwoBlog.eng {
+    background: #00E9AC;
+    
+    /* ShaDown */
+    box-shadow: 0px 32px 40px -30px rgba(0, 0, 0, 0.50);
+}
+
+.colTwoBlog.esa {
+    background: #EB1EED;
+}
+
+.colTwoBlogTilte {
+    color: #FFF;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+    margin-top: 10px;
+}
+
 /* Three Blog */
 .rowThreeBlog {
-    padding: 40px;
+    padding: 120px 40px;
 
     display: flex;
     justify-content: space-between;
@@ -705,7 +788,19 @@
     height: 275px;
     flex-shrink: 0;
 
+    overflow: hidden;
+
     position: relative;
+
+    cursor: pointer;
+}
+
+.imagesThreeBlog {
+    transition: all 3s linear 0s;
+}
+
+.newThreeBlog:hover .imagesThreeBlog {
+    transform: scale(1.4);
 }
 
 .imgThreeBlog {
