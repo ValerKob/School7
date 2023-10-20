@@ -501,11 +501,12 @@
         </div>
     </div>
 </section>
-<!-- 
 <section class="fourBlog">
     <div class="container">
         <div class="wrapperFourBlog">
-            <div class="titleFourBlog">
+            <div class="eventNumberThreeBlog">Информация для родиетелей по поводу карт</div>
+            <img src="./assets/images/parents/infoCards.jpg" alt="">
+<!--            <div class="titleFourBlog">
                 Всегда на страже новых технологий!
             </div>
             <div class="rowFourBlog">
@@ -578,11 +579,11 @@
                     <div class="textFiveBlog">
                         Более 70 первоклассных преподавателей работаю для вас и ваших детей
                     </div>
-                </div>
-            </div>
-        </div>
+                </div>>
+            </div>-->
+        </div> 
     </div>
-</section> -->
+</section>
 <!--================ End Pages Main =================-->
 
 @endsection('content')
