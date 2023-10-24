@@ -52,7 +52,7 @@
 
 <section class="oneBlogNews">
     <div class="container">
-    <div class="rowThreeBlog news">
+        <div class="rowThreeBlog news">
             <div class="colThreeBlog">
                 <div class="newsThreeBlog">
                     <div class="newThreeBlog">
@@ -106,7 +106,7 @@
                 </div>
             </div>
             <div class="colThreeBlog news">
-                <div class="contentThreeBlog">
+                <div class="contentThreeBlog news">
                     <a href="#" class="titleThreeBlog">
                         События
                     </a>
@@ -115,7 +115,7 @@
                     </a>
                 </div>
                 <div class="eventsThreeBlog">
-                    <div class="eventThreeBlog">
+                    <div class="eventThreeBlog news">
                         <div class="eventDataThreeBlog">
                             <div class="eventNumberThreeBlog">
                                 21
@@ -129,7 +129,7 @@
                             столько интересного, именно в этот день...
                         </div>
                     </div>
-                    <div class="eventThreeBlog">
+                    <div class="eventThreeBlog news">
                         <div class="eventDataThreeBlog">
                             <div class="eventNumberThreeBlog">
                                 21
@@ -143,7 +143,7 @@
                             столько интересного, именно в этот день...
                         </div>
                     </div>
-                    <div class="eventThreeBlog">
+                    <div class="eventThreeBlog news">
                         <div class="eventDataThreeBlog">
                             <div class="eventNumberThreeBlog">
                                 21
@@ -157,7 +157,7 @@
                             столько интересного, именно в этот день...
                         </div>
                     </div>
-                    <div class="eventThreeBlog">
+                    <div class="eventThreeBlog news">
                         <div class="eventDataThreeBlog">
                             <div class="eventNumberThreeBlog">
                                 21
@@ -171,7 +171,7 @@
                             столько интересного, именно в этот день...
                         </div>
                     </div>
-                    <div class="eventThreeBlog">
+                    <div class="eventThreeBlog news">
                         <div class="eventDataThreeBlog">
                             <div class="eventNumberThreeBlog">
                                 21
@@ -185,6 +185,199 @@
                             столько интересного, именно в этот день...
                         </div>
                     </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="rowThreeBlog news">
+            <div class="colThreeBlog newsInfo">
+                <div class="newsThreeBlog news">
+                    <div class="newThreeBlog">
+                        <div class="imgThreeBlog">
+                            <img class="imagesThreeBlog" src="../assets/images/1.png" alt="">
+                            <div class="dateImgThreeBlog">
+                                21 Сентября 2023
+                            </div>
+                            <div class="textImgThreeBlog">
+                                Показ талантов, дети
+                                удивляли своим мастер...
+                            </div>
+                        </div>
+                    </div>
+                    <div class="newThreeBlog">
+                        <div class="imgThreeBlog">
+                            <img class="imagesThreeBlog" src="../assets/images/1.png" alt="">
+                            <div class="dateImgThreeBlog">
+                                21 Сентября 2023
+                            </div>
+                            <div class="textImgThreeBlog">
+                                Показ талантов, дети
+                                удивляли своим мастер...
+                            </div>
+                        </div>
+                    </div>
+                    <div class="newThreeBlog rand">
+                        <div class="imgThreeBlog">
+                            <img class="imagesThreeBlog" src="../assets/images/news/newsPhoto.svg" alt="">
+                            <div class="dateImgThreeBlog">
+                                21 Сентября 2023
+                            </div>
+                            <div class="textImgThreeBlog news">
+                                Показ талантов, дети
+                                удивляли своим мастер...
+                            </div>
+                        </div>
+                    </div>
+                    <div class="newThreeBlog">
+                        <div class="imgThreeBlog">
+                            <img class="imagesThreeBlog" src="../assets/images/3.png" alt="">
+                            <div class="dateImgThreeBlog">
+                                21 Сентября 2023
+                            </div>
+                            <div class="textImgThreeBlog">
+                                Показ талантов, дети
+                                удивляли своим мастер...
+                            </div>
+                        </div>
+                    </div>
+                    <div class="newThreeBlog rand">
+                        <div class="imgThreeBlog">
+                            <img class="imagesThreeBlog" src="../assets/images/news/newsPhoto.svg" alt="">
+                            <div class="dateImgThreeBlog">
+                                21 Сентября 2023
+                            </div>
+                            <div class="textImgThreeBlog news">
+                                Показ талантов, дети
+                                удивляли своим мастер...
+                            </div>
+                        </div>
+                    </div>
+                   
+                    <div class="newThreeBlog">
+                        <div class="imgThreeBlog">
+                            <img class="imagesThreeBlog" src="../assets/images/4.png" alt="">
+                            <div class="dateImgThreeBlog">
+                                21 Сентября 2023
+                            </div>
+                            <div class="textImgThreeBlog">
+                                Показ талантов, дети
+                                удивляли своим мастер...
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="newThreeBlog">
+                        <div class="imgThreeBlog">
+                            <img class="imagesThreeBlog" src="../assets/images/3.png" alt="">
+                            <div class="dateImgThreeBlog">
+                                21 Сентября 2023
+                            </div>
+                            <div class="textImgThreeBlog">
+                                Показ талантов, дети
+                                удивляли своим мастер...
+                            </div>
+                        </div>
+                    </div>
+                    <div class="newThreeBlog">
+                        <div class="imgThreeBlog">
+                            <img class="imagesThreeBlog" src="../assets/images/3.png" alt="">
+                            <div class="dateImgThreeBlog">
+                                21 Сентября 2023
+                            </div>
+                            <div class="textImgThreeBlog">
+                                Показ талантов, дети
+                                удивляли своим мастер...
+                            </div>
+                        </div>
+                    </div>
+                    <div class="newThreeBlog rand">
+                        <div class="imgThreeBlog">
+                            <img class="imagesThreeBlog" src="../assets/images/news/newsPhoto.svg" alt="">
+                            <div class="dateImgThreeBlog">
+                                21 Сентября 2023
+                            </div>
+                            <div class="textImgThreeBlog news">
+                                Показ талантов, дети
+                                удивляли своим мастер...
+                            </div>
+                        </div>
+                    </div>
+                    <div class="newThreeBlog rand">
+                        <div class="imgThreeBlog">
+                            <img class="imagesThreeBlog" src="../assets/images/news/newsPhoto.svg" alt="">
+                            <div class="dateImgThreeBlog">
+                                21 Сентября 2023
+                            </div>
+                            <div class="textImgThreeBlog news">
+                                Показ талантов, дети
+                                удивляли своим мастер...
+                            </div>
+                        </div>
+                    </div>
+                    <div class="newThreeBlog">
+                        <div class="imgThreeBlog">
+                            <img class="imagesThreeBlog" src="../assets/images/3.png" alt="">
+                            <div class="dateImgThreeBlog">
+                                21 Сентября 2023
+                            </div>
+                            <div class="textImgThreeBlog">
+                                Показ талантов, дети
+                                удивляли своим мастер...
+                            </div>
+                        </div>
+                    </div>
+                    <div class="newThreeBlog">
+                        <div class="imgThreeBlog">
+                            <img class="imagesThreeBlog" src="../assets/images/3.png" alt="">
+                            <div class="dateImgThreeBlog">
+                                21 Сентября 2023
+                            </div>
+                            <div class="textImgThreeBlog">
+                                Показ талантов, дети
+                                удивляли своим мастер...
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="newThreeBlog">
+                        <div class="imgThreeBlog">
+                            <img class="imagesThreeBlog" src="../assets/images/3.png" alt="">
+                            <div class="dateImgThreeBlog">
+                                21 Сентября 2023
+                            </div>
+                            <div class="textImgThreeBlog">
+                                Показ талантов, дети
+                                удивляли своим мастер...
+                            </div>
+                        </div>
+                    </div>
+                    <div class="newThreeBlog rand">
+                        <div class="imgThreeBlog">
+                            <img class="imagesThreeBlog" src="../assets/images/news/newsPhoto.svg" alt="">
+                            <div class="dateImgThreeBlog">
+                                21 Сентября 2023
+                            </div>
+                            <div class="textImgThreeBlog news">
+                                Показ талантов, дети
+                                удивляли своим мастер...
+                            </div>
+                        </div>
+                    </div>
+                    <div class="newThreeBlog">
+                        <div class="imgThreeBlog">
+                            <img class="imagesThreeBlog" src="../assets/images/3.png" alt="">
+                            <div class="dateImgThreeBlog">
+                                21 Сентября 2023
+                            </div>
+                            <div class="textImgThreeBlog">
+                                Показ талантов, дети
+                                удивляли своим мастер...
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="newsBtn">
+                    <img src="./assets/images/news/btnNews.svg" alt="">
                 </div>
             </div>
         </div>

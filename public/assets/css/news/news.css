@@ -16,6 +16,10 @@
     padding: 0;
 }
 
+.rowThreeBlog.news:last-child {
+    padding-top: 40px;
+}
+
 .colThreeBlog.news {
     max-width: 600px;
     max-height: auto;
@@ -25,4 +29,37 @@
     border-radius: 6px;
     border: 1px solid #D0D0D0;
     background: #FFF;
+}
+
+.colThreeBlog.newsInfo {
+    max-width: 100%;
+    text-align: center;
+}
+
+.contentThreeBlog.news {
+    margin-bottom: 15px;
+}
+
+.eventThreeBlog.news {
+    margin-bottom: 40px;
+}
+
+.eventThreeBlog.news:last-child {
+    margin-bottom: 0;
+}
+
+.newsThreeBlog.news {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.newThreeBlog.rand {
+    width: 570px;
+    height: 275px;
+}
+
+.textImgThreeBlog.news {
+    max-width: 500px;
 }
