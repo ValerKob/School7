@@ -11,6 +11,11 @@
     background: var(--Gradient, linear-gradient(95deg, #FFCB2F -5.32%, #F05934 93.35%));
 }
 
+.documents.documentsNews {
+    position: absolute;
+    height: 600px;
+}
+
 .documentsContainer {
     position: absolute;
 

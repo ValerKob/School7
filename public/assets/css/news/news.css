@@ -1,4 +1,28 @@
 /* One Blog News */
+.newData {
+    width: 100vw;
+    height: auto;
+    flex-shrink: 0;
+    padding-bottom: 60px;
+    position: relative;
+}
+
 .oneBlogNews {
-    
+    position: relative;
+    z-index: 5;
+}
+
+.rowThreeBlog.news {
+    padding: 0;
+}
+
+.colThreeBlog.news {
+    max-width: 600px;
+    max-height: 592px;
+
+    padding: 30px 50px;
+
+    border-radius: 6px;
+    border: 1px solid #D0D0D0;
+    background: #FFF;
 }
