@@ -16,9 +16,7 @@
 
     <link rel="stylesheet" href="./assets/css/documents/basicDocuments.css?<?= time() ?>">
 
-    <!-- CSS Media -->
-
-    <!-- CSS Invailed -->
+    <link rel="stylesheet" href="./assets/css/news/news.css?<?= time() ?>">
 
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">

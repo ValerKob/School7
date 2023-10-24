@@ -30,7 +30,142 @@
 
 <section class="oneBlogNews">
     <div class="container">
-        
+    <div class="rowThreeBlog">
+            <div class="colThreeBlog">
+                <div class="newsThreeBlog">
+                    <div class="newThreeBlog">
+                        <div class="imgThreeBlog">
+                            <img class="imagesThreeBlog" src="../assets/images/1.png" alt="">
+                            <div class="dateImgThreeBlog">
+                                21 Сентября 2023
+                            </div>
+                            <div class="textImgThreeBlog">
+                                Показ талантов, дети
+                                удивляли своим мастер...
+                            </div>
+                        </div>
+                    </div>
+                    <div class="newThreeBlog">
+                        <div class="imgThreeBlog">
+                            <img class="imagesThreeBlog" src="../assets/images/2.png" alt="">
+                            <div class="dateImgThreeBlog">
+                                21 Сентября 2023
+                            </div>
+                            <div class="textImgThreeBlog">
+                                Показ талантов, дети
+                                удивляли своим мастер...
+                            </div>
+                        </div>
+                    </div>
+                    <div class="newThreeBlog">
+                        <div class="imgThreeBlog">
+                            <img class="imagesThreeBlog" src="../assets/images/3.png" alt="">
+                            <div class="dateImgThreeBlog">
+                                21 Сентября 2023
+                            </div>
+                            <div class="textImgThreeBlog">
+                                Показ талантов, дети
+                                удивляли своим мастер...
+                            </div>
+                        </div>
+                    </div>
+                    <div class="newThreeBlog">
+                        <div class="imgThreeBlog">
+                            <img class="imagesThreeBlog" src="../assets/images/4.png" alt="">
+                            <div class="dateImgThreeBlog">
+                                21 Сентября 2023
+                            </div>
+                            <div class="textImgThreeBlog">
+                                Показ талантов, дети
+                                удивляли своим мастер...
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="colThreeBlog">
+                <div class="contentThreeBlog">
+                    <a href="#" class="titleThreeBlog">
+                        События
+                    </a>
+                    <a href="#" class="allThreeBlog">
+                        Все
+                    </a>
+                </div>
+                <div class="eventsThreeBlog">
+                    <div class="eventThreeBlog">
+                        <div class="eventDataThreeBlog">
+                            <div class="eventNumberThreeBlog">
+                                21
+                            </div>
+                            <div class="eventDateThreeBlog">
+                                СЕНТЯБРЯ
+                            </div>
+                        </div>
+                        <div class="eventTextThreeBlog">
+                            В этот день в Россий произошло
+                            столько интересного, именно в этот день...
+                        </div>
+                    </div>
+                    <div class="eventThreeBlog">
+                        <div class="eventDataThreeBlog">
+                            <div class="eventNumberThreeBlog">
+                                21
+                            </div>
+                            <div class="eventDateThreeBlog">
+                                СЕНТЯБРЯ
+                            </div>
+                        </div>
+                        <div class="eventTextThreeBlog">
+                            В этот день в Россий произошло
+                            столько интересного, именно в этот день...
+                        </div>
+                    </div>
+                    <div class="eventThreeBlog">
+                        <div class="eventDataThreeBlog">
+                            <div class="eventNumberThreeBlog">
+                                21
+                            </div>
+                            <div class="eventDateThreeBlog">
+                                СЕНТЯБРЯ
+                            </div>
+                        </div>
+                        <div class="eventTextThreeBlog">
+                            В этот день в Россий произошло
+                            столько интересного, именно в этот день...
+                        </div>
+                    </div>
+                    <div class="eventThreeBlog">
+                        <div class="eventDataThreeBlog">
+                            <div class="eventNumberThreeBlog">
+                                21
+                            </div>
+                            <div class="eventDateThreeBlog">
+                                СЕНТЯБРЯ
+                            </div>
+                        </div>
+                        <div class="eventTextThreeBlog">
+                            В этот день в Россий произошло
+                            столько интересного, именно в этот день...
+                        </div>
+                    </div>
+                    <div class="eventThreeBlog">
+                        <div class="eventDataThreeBlog">
+                            <div class="eventNumberThreeBlog">
+                                21
+                            </div>
+                            <div class="eventDateThreeBlog">
+                                СЕНТЯБРЯ
+                            </div>
+                        </div>
+                        <div class="eventTextThreeBlog">
+                            В этот день в Россий произошло
+                            столько интересного, именно в этот день...
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 </section>
 <!--================ End Pages Main =================-->
