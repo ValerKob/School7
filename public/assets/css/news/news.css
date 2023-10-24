@@ -18,7 +18,7 @@
 
 .colThreeBlog.news {
     max-width: 600px;
-    max-height: 592px;
+    max-height: auto;
 
     padding: 30px 50px;
 
