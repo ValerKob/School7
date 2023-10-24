@@ -13,9 +13,9 @@
                     <div class="titleOneBlog">7-Я ШКОЛА!!!</div>
                     <div class="textOneBlog">Её самый лучший, надёжный, добрый и
                         уверенный коллектив...</div>
-                    <div class="btnOneBlog">
-                        <a href="#" class="linkOneBlog">Подробнее</a>
-                    </div>
+                    <a href="{{ route('basicInformation')}}" class="btnOneBlog">
+                        <div class="linkOneBlog">Подробнее</div>
+                    </a>
                 </div>
             </div>
             <div class="colOneBlogTwo">

@@ -25,7 +25,7 @@
                                 <a class="menuLink" href="{{ route('basicInformation') }}">О&nbspшколе</a>
                             </li>
                             <li class="menuLi">
-                                <a class="menuLink" href="#">Новости</a>
+                                <a class="menuLink" href="{{ route('news') }}">Новости</a>
                             </li>
                             <li class="menuLi">
                                 <a class="menuLink" href="#">Родителям</a>

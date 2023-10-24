@@ -32,3 +32,6 @@ Route::view('school', 'pages.info.school')->name('school');
  
 // Documents
 Route::view('documents', 'pages.documents.index')->name('documents');
+
+// News
+Route::view('news', 'pages.news.index')->name('news');

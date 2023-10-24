@@ -60,6 +60,18 @@ body {
     line-height: normal;
 }
 
+.opc {
+    opacity: .5;
+}
+
+.ml-4 {
+    margin-left: 40px;
+}
+
+.ml-5 {
+    margin-left: 50px;
+}
+
 @media (max-width: 1250px) {
     /* Main Style */
     .container {
