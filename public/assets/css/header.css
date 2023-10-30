@@ -458,16 +458,50 @@
     font-weight: 700;
 }
 
+.menuLiGlav {
+    position: relative;
+    width: auto;
+}
+
+.menuLiGlav:hover .blockHeaderLinks {
+    display: block;
+    width: auto;
+}
+
+.blockHeaderLinks li:hover {
+    background-color: #FF800D;
+}
+
+.blockHeaderLinks {
+    position: relative;
+    top: 40px;
+    left: 0;
+    display: none;
+
+    background-color: #fff;
+    border-radius: 8px;
+    border: 1px solid #000;
+}
+
+.blockHeaderLinks li a {
+    color: #000;
+}
+
+.blockHeaderLinks li a:hover:after {
+    background-color: #000;
+}
+
+
 /* Media Header */
 @media (max-width: 1150px) {
     .menuUl {
-        display: none;
+        /* display: none; */
     }
 }
 
 @media (max-width: 750px) {
     .menuUlSvg {
-        display: none;
+        /* display: none; */
     }
 
     .colMenu.two {
