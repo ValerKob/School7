@@ -7,7 +7,8 @@
 <!--================ Start Pages Main =================-->
 <section class="oneBlog">
     <div class="container">
-        <div class="rowOneBlog">
+
+        <!-- <div class="rowOneBlog">
             <div class="colOneBlogOne">
                 <div class="content">
                     <div class="titleOneBlog">7-Я ШКОЛА!!!</div>
@@ -188,7 +189,7 @@
                 </div>
 
             </div>
-        </div>
+        </div> -->
     </div>
 </section>
 <section class="twoBlog">
@@ -506,7 +507,7 @@
         <div class="wrapperFourBlog">
             <div class="eventNumberThreeBlog">Информация для родиетелей по поводу карт</div>
             <img src="./assets/images/parents/infoCards.jpg" alt="">
-<!--            <div class="titleFourBlog">
+            <!--            <div class="titleFourBlog">
                 Всегда на страже новых технологий!
             </div>
             <div class="rowFourBlog">
@@ -581,7 +582,7 @@
                     </div>
                 </div>>
             </div>-->
-        </div> 
+        </div>
     </div>
 </section>
 <!--================ End Pages Main =================-->

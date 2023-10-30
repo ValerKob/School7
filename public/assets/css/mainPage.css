@@ -5,8 +5,13 @@
 
     display: flex;
     align-items: center;
+    justify-content: center;
 
-    background: var(--Gradient, linear-gradient(95deg, #FFCB2F -5.32%, #F05934 93.35%));
+    background-image: url(./../images/School7.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+    /* background: var(--Gradient, linear-gradient(95deg, #FFCB2F -5.32%, #F05934 93.35%)); */
 }
 
 .rowOneBlog {
