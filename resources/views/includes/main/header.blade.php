@@ -255,43 +255,43 @@
                     <a class="menuLink menuLinkGlavHover" href="{{ route('basicInformation') }}">Основные сведения</a>
                     <ul class="blockHeaderLinks">
                         <li class="menuLi">
-                            <a class="menuLink" href="{{ route('structureAndManagement') }}">Структура и органы управления образовательной организацией</a>
+                            <a class="menuLink" href="{{ route('structureAndManagement') }}">01 Структура и органы управления образовательной организацией</a>
                         </li>
                         <li class="menuLi">
-                            <a class="menuLink" href="{{ route('documents') }}">Документы</a>
+                            <a class="menuLink" href="{{ route('documents') }}">02 Документы</a>
                         </li>
                         <li class="menuLi">
-                            <a class="menuLink" href="{{ route('education') }}">Обрзование</a>
+                            <a class="menuLink" href="{{ route('education') }}">03 Обрзование</a>
                         </li>
                         <li class="menuLi">
-                            <a class="menuLink" href="{{ route('guide') }}">Руководство</a>
+                            <a class="menuLink" href="{{ route('guide') }}">04 Руководство</a>
                         </li>
                         <li class="menuLi">
-                            <a class="menuLink" href="{{ route('material') }}">Материально-техническое обеспечение</a>
+                            <a class="menuLink" href="{{ route('material') }}">05 Материально-техническое обеспечение</a>
                         </li>
                         <li class="menuLi">
-                            <a class="menuLink" href="{{ route('services') }}">Услуги</a>
+                            <a class="menuLink" href="{{ route('services') }}">06 Услуги</a>
                         </li>
                         <li class="menuLi">
-                            <a class="menuLink" href="{{ route('financial') }}">Финансово-хозяйственная деятельность</a>
+                            <a class="menuLink" href="{{ route('financial') }}">07 Финансово-хозяйственная деятельность</a>
                         </li>
                         <li class="menuLi">
-                            <a class="menuLink" href="{{ route('places') }}">Вакантные места для приема (перевода) обучающихся</a>
+                            <a class="menuLink" href="{{ route('places') }}">08 Вакантные места для приема (перевода) обучающихся</a>
                         </li>
                         <li class="menuLi">
-                            <a class="menuLink" href="{{ route('available') }}">Доступная среда</a>
+                            <a class="menuLink" href="{{ route('available') }}">09 Доступная среда</a>
                         </li>
                         <li class="menuLi">
-                            <a class="menuLink" href="{{ route('international') }}">Международное сотрудничество</a>
+                            <a class="menuLink" href="{{ route('international') }}">10 Международное сотрудничество</a>
                         </li>
                         <li class="menuLi">
-                            <a class="menuLink" href="{{ route('basicInformation') }}">О&nbspшколе</a>
+                            <a class="menuLink" href="{{ route('basicInformation') }}">11 О&nbspшколе</a>
                         </li>
                         <li class="menuLi">
-                            <a class="menuLink" href="{{ route('news') }}">Новости</a>
+                            <a class="menuLink" href="{{ route('news') }}">12 Новости</a>
                         </li>
                         <li class="menuLi">
-                            <a class="menuLink" href="#">Родителям</a>
+                            <a class="menuLink" href="#">13 Родителям</a>
                         </li>
                     </ul>
                 </li>
