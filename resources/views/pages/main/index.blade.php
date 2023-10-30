@@ -7,7 +7,7 @@
 <!--================ Start Pages Main =================-->
 <section class="oneBlog">
     <div class="container">
-
+        <img class="oneBlogImagesBack" src="./assets/images/School7.jpg" alt="">
         <!-- <div class="rowOneBlog">
             <div class="colOneBlogOne">
                 <div class="content">
