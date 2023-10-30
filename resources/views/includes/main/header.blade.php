@@ -1,5 +1,5 @@
 <!--================ Start Header =================-->
-<section class="headerWrapper">
+<!-- <section class="headerWrapper">
     <div class="header">
         <div class="container">
             <div class="headerWrapperCon">
@@ -192,5 +192,108 @@
             <img class="headerMenuRocketImg" src="../assets/images/rocket1.svg" alt="">
         </div>
     </div>
-</section>
+</section> -->
 <!--================ End Header =================-->
+<section class="headerWrapper">
+    <div class="header">
+        <div class="container">
+            <div class="headerWrapperCon">
+                <div style="display: flex; align-items: center;">
+                    <!-- <div class="burgerMenuWrapper" id="burgerMenu">
+                        <div class="burgerMenu" id="burgerMenuClose">
+
+                        </div>
+                    </div> -->
+                    <div class="logo">
+                        <a href="{{ route('main') }}">
+                            <img src="../assets/images/logo.svg" alt="">
+                        </a>
+                    </div>
+                    <div class="headerMenu">
+                        <div class="menuTitle">
+                            <a href="{{ route('main') }}">
+                                <h1 class="menuTitleSchool">МБОУ&nbspСШ&nbsp№7<h1>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <ul class="menuUlSvg">
+                    <li class="menuLiSvg">
+                        <a href="" class="specialButtonLink">
+                            <h1 class="specialButtonText">Версия для слабовидящих</h1>
+                            <img id="specialButton" src="../assets/images/eye.svg" alt="ВЕРСИЯ ДЛЯ СЛАБОВИДЯЩИХ" title="ВЕРСИЯ ДЛЯ СЛАБОВИДЯЩИХ">
+                        </a>
+                    </li>
+                    <!-- <li class="menuLi">
+                        <a href="">
+                            <img src="../assets/images/vector.svg" alt="">
+                        </a>
+                    </li>
+                    <li class="menuLi">
+                        <a href="">
+                            <img src="../assets/images/user.svg" alt="">
+                        </a>
+                    </li>
+                    <li class="menuLi">
+                        <a href="">
+                            <img src="../assets/images/search.svg" alt="">
+                        </a>
+                    </li>
+                    <li class="menuLi">
+                        <a href="">
+                            <img src="../assets/images/language.svg" alt="">
+                        </a>
+                    </li> -->
+                </ul>
+            </div>
+            <ul class="menuUl">
+                <li class="menuLi">
+                    <a class="menuLink" href="{{ route('school') }}">Школа</a>
+                </li>
+                <li class="menuLi">
+                    <a class="menuLink" href="{{ route('basicInformation') }}">Основные сведения</a>
+                </li>
+                <li class="menuLi">
+                    <a class="menuLink" href="{{ route('structureAndManagement') }}">Структура и органы управления образовательной организацией</a>
+                </li>
+                <li class="menuLi">
+                    <a class="menuLink" href="{{ route('documents') }}">Документы</a>
+                </li>
+                <li class="menuLi">
+                    <a class="menuLink" href="{{ route('education') }}">Обрзование</a>
+                </li>
+                <li class="menuLi">
+                    <a class="menuLink" href="{{ route('guide') }}">Руководство</a>
+                </li>
+                <li class="menuLi">
+                    <a class="menuLink" href="{{ route('material') }}">Материально-техническое обеспечение</a>
+                </li>
+                <li class="menuLi">
+                    <a class="menuLink" href="{{ route('services') }}">Услуги</a>
+                </li>
+                <li class="menuLi">
+                    <a class="menuLink" href="{{ route('financial') }}">Финансово-хозяйственная деятельность</a>
+                </li>
+                <li class="menuLi">
+                    <a class="menuLink" href="{{ route('places') }}">Вакантные места для приема (перевода) обучающихся</a>
+                </li>
+                <li class="menuLi">
+                    <a class="menuLink" href="{{ route('available') }}">Доступная среда</a>
+                </li>
+                <li class="menuLi">
+                    <a class="menuLink" href="{{ route('international') }}">Международное сотрудничество</a>
+                </li>
+                <li class="menuLi">
+                    <a class="menuLink" href="{{ route('basicInformation') }}">О&nbspшколе</a>
+                </li>
+                <li class="menuLi">
+                    <a class="menuLink" href="{{ route('news') }}">Новости</a>
+                </li>
+                <li class="menuLi">
+                    <a class="menuLink" href="#">Родителям</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</section>

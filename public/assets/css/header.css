@@ -2,7 +2,7 @@
     width: 100vw;
     height: auto;
 
-    position: fixed;
+    /* position: fixed; */
 
     margin: 0 auto;
 
@@ -196,7 +196,6 @@
 .headerMenu {
     max-width: 100%;
 
-    display: flex;
     align-items: center;
 }
 
@@ -221,6 +220,7 @@
 .menuUl,
 .menuUlSvg {
     display: flex;
+    flex-wrap: wrap;
 }
 
 .menuUlSvg {
@@ -250,7 +250,8 @@
 
 .menuLink {
     color: #FFF;
-    font-size: 16px;
+    /* font-size: 16px; */
+    font-size: 24px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
@@ -444,6 +445,17 @@
     position: absolute;
     top: 55%;
     left: 45%;
+}
+
+.specialButtonLink {
+    display: flex;
+}
+
+.specialButtonText {
+    text-decoration: none;
+    color: #fff;
+    font-size: 24px;
+    font-weight: 700;
 }
 
 /* Media Header */
