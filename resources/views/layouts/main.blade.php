@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="./assets/css/footer.css?<?= time() ?>">
     <link rel="stylesheet" href="./assets/css/mainPage.css?<?= time() ?>">
     <link rel="stylesheet" href="./assets/css/mainStyle.css?<?= time() ?>">
+    <link rel="stylesheet" href="./assets/css/sidebar.css?<?= time() ?>">
 
     <link rel="stylesheet" href="./assets/css/info/basicInformation.css?<?= time() ?>">
 
@@ -38,7 +39,7 @@
 <body>
     <div class="wrapperBody">
         <!-- Header -->
-        
+
         @include('includes.main.header')
 
         @if(\Request::is("info"))
@@ -54,6 +55,7 @@
 
         <!-- Main -->
         <div class="container_wrapper">
+            @include('default.sidebar')
             @yield('content')
         </div>
 
