@@ -201,7 +201,7 @@
         <div class="twoBlogEllipse2"></div>
         <div class="twoBlogEllipse3"></div>
     </div>
-    <div class="container" style="z-index: 10;">
+    <div class="container" style="z-index: 10; max-width: 1200px;">
         <div class="twoBlogTitle">
             Самая лучшая школа
         </div>
