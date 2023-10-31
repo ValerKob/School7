@@ -56,7 +56,9 @@
         <!-- Main -->
         <div class="container_wrapper">
             @include('default.sidebar')
-            @yield('content')
+            <div>
+                @yield('content')
+            </div>
         </div>
 
         <!-- Fooret -->

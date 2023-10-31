@@ -29,6 +29,7 @@ body {
 
 .container_wrapper {
     flex-grow: 1;
+    display: flex;
 }
 
 .container {
